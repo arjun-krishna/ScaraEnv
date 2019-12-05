@@ -10,12 +10,12 @@ Here's the RViz visualization of the model
 
 Pybullet render of the current Env
 
-![pybullet-visual][https://github.com/arjun-krishna/ScaraEnv/blob/master/static/scara-pybullet.png)
+![pybullet-visual](https://github.com/arjun-krishna/ScaraEnv/blob/master/static/scara_pybullet.png)
 
 
 Next Steps:
 * Complete PyBullet Env
-** Update urdf with realistic values
-** Implement FK and IFK methods.
+  * Update urdf with realistic values
+  * Implement FK and IFK methods.
 
 
