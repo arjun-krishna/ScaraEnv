@@ -6,11 +6,11 @@ Creating a robotic env using pybullet for a simplified scara arm.
 
 Here's the RViz visualization of the model
 
-![rviz-visual](https://github.com/arjun-krishna/ScaraEnv/static/scara-rviz.gif)
+![rviz-visual](https://github.com/arjun-krishna/ScaraEnv/blob/master/static/scara-rviz.gif)
 
 Pybullet render of the current Env
 
-![pybullet-visual][https://github.com/arjun-krishna/ScaraEnv/static/scara-pybullet.png]
+![pybullet-visual][https://github.com/arjun-krishna/ScaraEnv/blob/master/static/scara-pybullet.png)
 
 
 Next Steps:
